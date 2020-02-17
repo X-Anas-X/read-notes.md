@@ -15,7 +15,7 @@
 - you can hide elements using the display and visibility properties.
 - CSS3 has introduced the ability to create image borders and rounded borders to help decorating the webpage.
 
-#JavaScript:
+# JavaScript:
 
 ### _Chapter 4:_
 > Decisions and Loops
