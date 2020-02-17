@@ -5,7 +5,7 @@
 |--------|-------|
 |Read01  |  [Link](https://x-anas-x.github.io/reading-notes/read01)|
 |Read02|[Link](https://x-anas-x.github.io/reading-notes/class-02)|
-|Read03|[Link]()|
+|Read03|[Link](https://x-anas-x.github.io/reading-notes/class-03)|
 |Read04|[Link]()|
 |Read05|[Link]()|
 |Read06|[Link]()|
