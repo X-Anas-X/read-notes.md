@@ -6,8 +6,8 @@
 |Read01  |  [Link](https://x-anas-x.github.io/reading-notes/read01)|
 |Read02|[Link](https://x-anas-x.github.io/reading-notes/class-02)|
 |Read03|[Link](https://x-anas-x.github.io/reading-notes/class-03)|
-|Read04|[Link]()|
-|Read05|[Link]()|
+|Read04|[Link](https://x-anas-x.github.io/reading-notes/class-04)|
+|Read05|[Link](https://x-anas-x.github.io/reading-notes/class-05)|
 |Read06|[Link]()|
 |Read07|[Link]()|
 |Read08|[Link]()|
