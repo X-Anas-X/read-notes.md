@@ -8,7 +8,7 @@
 |Read03|[Link](https://x-anas-x.github.io/reading-notes/class-03)|
 |Read04|[Link](https://x-anas-x.github.io/reading-notes/class-04)|
 |Read05|[Link](https://x-anas-x.github.io/reading-notes/class-05)|
-|Read06|[Link]()|
+|Read06|[Link](https://x-anas-x.github.io/reading-notes/class-06)|
 |Read07|[Link]()|
 |Read08|[Link]()|
 |Read09|[Link]()|
