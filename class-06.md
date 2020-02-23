@@ -25,12 +25,12 @@
 # _Article:_
 ## What is the hardest thing about writing code?
 > There are many common answers to this question:
->> Learning a new technology
->> Naming things
->> Testing your code
->> Debugging
->> Fixing bugs
->> Making software maintainable
+1. Learning a new technology
+2. Naming things
+3. Testing your code
+4. Debugging
+5. Fixing bugs
+6. Making software maintainable
 -  we keep demonstrating how to build the same simple application over and over again in each of our courses.
 > the answer is familiarity.
 - By creating a familiar problem domain.. both the tasks of teaching a new technology and the viewer learning that technology were much easier.
