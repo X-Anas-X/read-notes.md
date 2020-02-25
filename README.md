@@ -9,8 +9,8 @@
 |Read04|[Link](https://x-anas-x.github.io/reading-notes/class-04)|
 |Read05|[Link](https://x-anas-x.github.io/reading-notes/class-05)|
 |Read06|[Link](https://x-anas-x.github.io/reading-notes/class-06)|
-|Read07|[Link]()|
-|Read08|[Link]()|
+|Read07|[Link](https://x-anas-x.github.io/reading-notes/class-07)|
+|Read08|[Link](https://x-anas-x.github.io/reading-notes/class-08)|
 |Read09|[Link]()|
 |Read10|[Link]()|
 |Read11|[Link]()|
