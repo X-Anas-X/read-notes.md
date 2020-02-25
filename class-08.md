@@ -11,5 +11,4 @@
 >>>> position: Absolute
 >>>>> position:fixed
 - Resolution refers to the number of dots a screen shows per inch.
-+ CSS frameworks aim to make your life easier by providing the code for common tasks, such as creating layout grids, styling forms, creating
-printer-friendly versions of pages and so on.
++ CSS frameworks aim to make your life easier by providing the code for common tasks, such as creating layout grids, styling forms, creating printer-friendly versions of pages and so on.
