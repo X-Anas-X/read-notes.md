@@ -23,4 +23,4 @@
 * events are the way that  browser shows the the changes in its child elements.
 - event delegation is used to monitor the overall events that might occure in the children elements.
 + events can trigger the javascript functions to work.
-- 
+
