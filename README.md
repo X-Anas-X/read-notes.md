@@ -11,8 +11,8 @@
 |Read06|[Link](https://x-anas-x.github.io/reading-notes/class-06)|
 |Read07|[Link](https://x-anas-x.github.io/reading-notes/class-07)|
 |Read08|[Link](https://x-anas-x.github.io/reading-notes/class-08)|
-|Read09|[Link]()|
-|Read10|[Link]()|
+|Read09|[Link](https://x-anas-x.github.io/reading-notes/class-09)|
+|Read10|[Link](https://x-anas-x.github.io/reading-notes/class-10)|
 |Read11|[Link]()|
 |Read12|[Link]()|
 |Read13|[Link]()|
