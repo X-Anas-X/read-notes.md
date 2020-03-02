@@ -3,9 +3,9 @@
 >> one will show the number of buyers (line chart)
 >> the second will show which countries the customers come from (pie chart)
 >> use a bar chart to show profit over the period.
-* The great things about Chart.js are that it’s simple to use and really very flexible.
+* The great things about Chart.js are that it’s simple to use and really very ***flexible***.
 
- ***The <canvas> element***
+ # The <canvas> element
 - it doesn't have the **src** and **alt** attributes.
 - it has only two attributes, width and height. 
   - it will initially be 300 pixels wide and 150 pixels high.
@@ -29,12 +29,3 @@
   >- there are two methods to render text:
   >> fillText(text, x, y [, maxWidth])
   >> strokeText(text, x, y [, maxWidth])
-  
-  
-  
-  
-  
-  
-  
-  
-  
